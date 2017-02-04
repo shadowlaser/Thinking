@@ -1,2 +1,2 @@
 # Thinking
-思考
+这是readme
